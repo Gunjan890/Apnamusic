@@ -13,11 +13,11 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Ironmanhindigaming")
+OWNER_USERNAME = getenv("OWNER_USERNAME","gunjan")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","irotechmusicbot")
+BOT_USERNAME = getenv("BOT_USERNAME","shree_Mbot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME","IRO MUSIC")
+BOT_NAME = getenv("BOT_NAME","SHREE MUSIC")
 # ---------------------------------------------------------
 
 
@@ -27,10 +27,10 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", -1002311769574))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002302005857))
 
 # Get this value from @PURVI_HELP_BOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 5909658683))
+OWNER_ID = int(getenv("OWNER_ID", 8353317492))
 
 
 # make your bots privacy from telegra.ph and put your url here 
@@ -45,13 +45,13 @@ API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
 API_KEY = getenv("API_KEY", '30DxNexGenBotsbe462b') # youtube song api key
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Gunjan890/IROTECH-MUSIC",
+    "https://github.com/Gunjan890/Apnamusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/irotechlab")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ironmanhindigming1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/irhlab")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ironmanhigming1")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
