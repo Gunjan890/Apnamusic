@@ -1,6 +1,5 @@
 import asyncio
 import importlib
-
 from pyrogram import idle
 
 import config
@@ -11,6 +10,9 @@ from SONALI.plugins import ALL_MODULES
 from SONALI.utils.database import get_banned_users, get_gbanned
 from config import BANNED_USERS
 
+# Import and start keep-alive server
+from keep_alive import keep_alive
+
 
 async def init():
     if (
@@ -20,7 +22,7 @@ async def init():
         and not config.STRING4
         and not config.STRING5
     ):
-        LOGGER(__name__).error(
+        LOGGER(name).error(
             "𝐒𝐭𝐫𝐢𝐧𝐠 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐍𝐨𝐭 𝐅𝐢𝐥𝐥𝐞𝐝, 𝐏𝐥𝐞𝐚𝐬𝐞 𝐅𝐢𝐥𝐥 𝐀 𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦 V2 𝐒𝐞𝐬𝐬𝐢𝐨𝐧🤬"
         )
 
@@ -41,12 +43,13 @@ async def init():
     await userbot.start()
     await RAUSHAN.start()
     await RAUSHAN.decorators()
-    LOGGER("SONALI").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗜𝗦𝗧𝗞𝗛𝗔𝗥♨️\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER("SONALI").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗔𝗟𝗣𝗛𝗔♨️\n╚═════ஜ۩۞۩ஜ════╝")
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("SONALI").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗜𝗦𝗧𝗞𝗛𝗔𝗥♨️\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER("SONALI").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗔𝗟𝗣𝗛𝗔♨️\n╚═════ஜ۩۞۩ஜ════╝")
 
 
 if __name__ == "__main__":
+    keep_alive()  # Start the web server for Render
     asyncio.get_event_loop().run_until_complete(init())
