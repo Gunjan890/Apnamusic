@@ -1,7 +1,7 @@
 from pyrogram import Client, errors
 from pyrogram.enums import ChatMemberStatus
 
-import config
+import config RAUSHAN
 
 from ..logging import LOGGER
 
