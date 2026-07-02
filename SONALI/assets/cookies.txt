@@ -1,20 +1,18 @@
 # Netscape HTTP Cookie File
-# http://curl.haxx.se/rfc/cookie_spec.html
-# This is a generated file!  Do not edit.
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
 
-.youtube.com	TRUE	/	TRUE	1772894980	PREF	f7=100&tz=Asia.Calcutta
-.youtube.com	TRUE	/	TRUE	1767102355	__Secure-1PSIDTS	sidts-CjEB7wV3sWCCamHe_EOwLvj7OtJFQCh6osQNaht58FZ59z_hUJSpdfkOsjJ1kpjfILZwEAA
-.youtube.com	TRUE	/	TRUE	1767102355	__Secure-3PSIDTS	sidts-CjEB7wV3sWCCamHe_EOwLvj7OtJFQCh6osQNaht58FZ59z_hUJSpdfkOsjJ1kpjfILZwEAA
-.youtube.com	TRUE	/	FALSE	1772894977	HSID	AQ6RHN9iftWVZ0K3E
-.youtube.com	TRUE	/	TRUE	1772894977	SSID	A_QzOt5T7kQTAmr89
-.youtube.com	TRUE	/	FALSE	1772894977	APISID	-OQAb2cYq_Q6o1JB/ARptywiHMrqpcX7eV
-.youtube.com	TRUE	/	TRUE	1772894977	SAPISID	yAA5btTQPoDWty6d/AqKbzwtciRjYJPmdS
-.youtube.com	TRUE	/	TRUE	1772894977	__Secure-1PAPISID	yAA5btTQPoDWty6d/AqKbzwtciRjYJPmdS
-.youtube.com	TRUE	/	TRUE	1772894977	__Secure-3PAPISID	yAA5btTQPoDWty6d/AqKbzwtciRjYJPmdS
-.youtube.com	TRUE	/	TRUE	1770126357	LOGIN_INFO	AFmmF2swRQIhAIKNy4QofNleFnghoKMecVVA0gvfwqAZm-UFN9_D8FDeAiBAT99mgXdlhUaZDY2XMpZostkdZUt_YKmzFMD9QRbz2A:QUQ3MjNmeG9ZQlpJbS1jTXVRWDluUnBLRWxxZGtjTlcxQzg4Y3RQVkh4ZjlNV2tsQUZ4WlM2U3p1ZnA2Zk42VzFkcnF3MkV3WXBUM19fZ3UxaUxCZ3dXc2JtSW9WbzdURUg0LVpkcnNRcVFVNFJnSjJGRlVxV0dJTEZSUlV3TlNmbWVGbXdIU1R3OVkyOU95NlNxZTU1YjlHM29nTUVoQU5R
-.youtube.com	TRUE	/	FALSE	1772894977	SID	g.a000tAjYhkVVXkDG4TMKWsgj_KiZI_30A5HCqMheOSXersTuWN99NAV8o1oUKH3R5v22l40GKgACgYKAe0SARYSFQHGX2MiFswMGZyyDjygzpvAJVNYmxoVAUF8yKqRJfQ8ch1bEO19wDWm7Pss0076
-.youtube.com	TRUE	/	TRUE	1772894977	__Secure-1PSID	g.a000tAjYhkVVXkDG4TMKWsgj_KiZI_30A5HCqMheOSXersTuWN995Zz8jdOwtLjYv_QkmHUgjQACgYKAUsSARYSFQHGX2MiHOK-vOW3cM1HTMif_tPzQBoVAUF8yKrA--r9_Oj8xSbwCht4vTxa0076
-.youtube.com	TRUE	/	TRUE	1772894977	__Secure-3PSID	g.a000tAjYhkVVXkDG4TMKWsgj_KiZI_30A5HCqMheOSXersTuWN99UIFqbX0tVE4Id8YO414V2QACgYKATISARYSFQHGX2MiKbmyrAIYEH2KoHxw-bcqlhoVAUF8yKqbk57EOEzBxiDFAEqxO20F0076
-.youtube.com	TRUE	/	FALSE	1769871124	SIDCC	AKEyXzWJLMjnzVmZ55mh-LtJA6kNAkes_ywMgo5OVBTCntZz5LGGodQA1f1UtfaZ2fhYsEgQ
-.youtube.com	TRUE	/	TRUE	1769871124	__Secure-1PSIDCC	AKEyXzXhD_SsVw3V-1fJ2l-XWVxCWk14Y407CEAGhab7YWn6QLMnm-k2pbag_SmAF3jxR-U9
-.youtube.com	TRUE	/	TRUE	1769871124	__Secure-3PSIDCC	AKEyXzUwjuczZHuNHeixLyxl9L6U1Lo9sf_2yK7XoUC-czGX8DaXfuWwLb7WsEnNpQ0Yq4B7N5E
+.github.com	TRUE	/	TRUE	1806067910	_octo	GH1.1.1052945749.1774531902
+.github.com	TRUE	/	TRUE	1790435024	GHCC	Required:1-Analytics:1-SocialMedia:1-Advertising:1
+github.com	FALSE	/	TRUE	1814502149	_device_id	8590b7e8863c250c8b985362436958ab
+github.com	FALSE	/	TRUE	1790559135	saved_user_sessions	165020412%3AeXoYCis7DYJhLDSXJqouy32qjsNHuHH0dRTWNxrfgYQNfSuv
+github.com	FALSE	/	TRUE	1784175749	user_session	eXoYCis7DYJhLDSXJqouy32qjsNHuHH0dRTWNxrfgYQNfSuv
+github.com	FALSE	/	TRUE	1784175749	__Host-user_session_same_site	eXoYCis7DYJhLDSXJqouy32qjsNHuHH0dRTWNxrfgYQNfSuv
+.github.com	TRUE	/	TRUE	1814319135	logged_in	yes
+.github.com	TRUE	/	TRUE	1814319135	dotcom_user	Gunjan890
+.github.com	TRUE	/	TRUE	0	color_mode	%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D
+.github.com	TRUE	/	TRUE	0	cpu_bucket	xlg
+.github.com	TRUE	/	TRUE	0	preferred_color_mode	light
+.github.com	TRUE	/	TRUE	0	tz	Asia%2FCalcutta
+github.com	FALSE	/	TRUE	0	last_write_ms	1782968424687
+github.com	FALSE	/	TRUE	0	_gh_sess	HmJ5ZgNp0DIvjTJqEUaEdIiQTU8Kseq9a3Gtuh%2BHveMyfT%2FIapQYORC3lwkOTXzesDtSn5LUdye3ymdm%2Bq19NhzP3wvCQcitrEvMrnWnxTmtKWKz%2Bwmf4SYKstS8AWh7wQyRjnsmD%2Bm0XLR6hHvMFAGrb2uN6DoZ6zSsu11I0axyuc1gm6uITYrRIPc9Ppk2lMPRSmcZM9K5hYDGKAC1SQa%2BIVAZgyBTSYfSoSGrCqgQLvP4jjSbbd5ooHWLp9gVliOIirStWTShLHcq%2Fso4V5%2BIAN%2FPcEYMoIFP6mdu1wOC5ycAsP35bSEyNwdYOe0Naa8z0VnhCn4ZS%2BWVbf39DfJaYveqemRunCw3eyVE4piDUOQexKW5wD1YaY%2FV37%2BQFydSPRDV9U9R%2FXVleuReLX261w3bFYGDLcFUedOPLMqdIlxh%2FFl2SfcVCfdRI%2FGqXJ0cF9MwXvL%2B0jcCsG509%2FBrDEZvc%2FeYMwzNVbkxY56vHA7UXBXPOzvmKPKrncEt--GkDCvX0uvFk%2Fg668--SX4A%2BrS7o5uNPPrZfI5FvQ%3D%3D
