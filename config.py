@@ -48,8 +48,8 @@ UPSTREAM_REPO = getenv(
     "https://github.com/Gunjan890/Apnamusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
-GIT_TOKEN = getenv(
-    "GIT_TOKEN", None
+GIT_TOKEN = getenv("GIT_TOKEN", None)
+
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/irhlab")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ironmanhigming1")
 
